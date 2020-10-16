@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 JAVA="java"
 
 mvn clean package -DskipTests=true
